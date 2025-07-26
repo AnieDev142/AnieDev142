@@ -31,8 +31,8 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: anathi.dev@gmail.com *(or your preferred email)*
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) *(add later)*
+- 📧 Email: anatianesh@gmail.com
+- 💼 LinkedIn: http://linkedin.com/in/anathi-ngese-35a8b9288
 - 🌐 Portfolio: Coming soon...
 
 ---
